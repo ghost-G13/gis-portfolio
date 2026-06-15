@@ -1,0 +1,219 @@
+<script setup lang="ts">
+/**
+ * LeafletMap.vue
+ * ============================================
+ * 基于 Vue 3 + TypeScript + Leaflet 的地图初始化组件
+ * 功能：在页面中渲染一个可交互的 Leaflet 地图，支持缩放、拖拽和图层切换
+ * ============================================
+ */
+
+// --------------------------------------------
+// 1. 导入 Vue 核心 API
+// --------------------------------------------
+// ref: 用于创建响应式引用，这里用来绑定地图容器 DOM 元素
+// onMounted: 组件挂载到 DOM 后执行，适合初始化地图等副作用操作
+// onUnmounted: 组件卸载前执行，适合清理资源，防止内存泄漏
+import { ref, onMounted, onUnmounted } from 'vue'
+
+// --------------------------------------------
+// 2. 导入 Leaflet 库及其类型
+// --------------------------------------------
+// leaflet 是核心地图库，提供 Map、TileLayer、Marker 等类
+// 类型导入：L.Map 是 Leaflet 地图实例的类型，方便 TypeScript 类型推断和检查
+import L from 'leaflet'
+import type { Map as LeafletMapType } from 'leaflet'
+
+// --------------------------------------------
+// 3. 导入 Leaflet 默认样式
+// --------------------------------------------
+// Leaflet 依赖一套默认 CSS 来正确显示地图控件（缩放按钮、 Attribution 等）
+// 在 Vite 项目中可以直接通过 import 引入 node_modules 中的 CSS 文件
+import 'leaflet/dist/leaflet.css'
+
+// --------------------------------------------
+// 4. 定义组件 Props（对外暴露的配置接口）
+// --------------------------------------------
+// defineProps 是 Vue 3 的编译器宏，无需导入即可使用
+// 本组件支持从父组件传入以下参数来自定义地图行为
+interface Props {
+  /**
+   * 地图初始纬度（-90 ~ 90）
+   * 默认：23.1291（广州市）
+   */
+  latitude?: number
+  /**
+   * 地图初始经度（-180 ~ 180）
+   * 默认：113.2644（广州市）
+   */
+  longitude?: number
+  /**
+   * 初始缩放级别（通常 1 ~ 20，越大越精细）
+   * 默认：12
+   */
+  zoom?: number
+  /**
+   * 地图容器的高度，支持 CSS 高度值（px / vh / %）
+   * 默认：600px
+   */
+  height?: string
+}
+
+// 设置 props 默认值：如果父组件未传入，则使用以下预设值
+const props = withDefaults(defineProps<Props>(), {
+  latitude: 23.1291,
+  longitude: 113.2644,
+  zoom: 12,
+  height: '600px'
+})
+
+// --------------------------------------------
+// 5. 定义响应式引用
+// --------------------------------------------
+// mapContainer: 用于绑定模板中的 <div> 元素，作为 Leaflet 地图的挂载点
+// 初始值为 null，待 DOM 渲染后由 Vue 自动填充为对应的 HTMLDivElement
+const mapContainer = ref<HTMLDivElement | null>(null)
+
+// mapInstance: 保存 Leaflet 地图实例的引用
+// 类型为 LeafletMapType | null，初始为 null，在 onMounted 中赋值
+// 使用 let 而非 const，因为需要在后续生命周期中重新赋值或清空
+let mapInstance: LeafletMapType | null = null
+
+// --------------------------------------------
+// 6. 组件挂载生命周期钩子：初始化地图
+// --------------------------------------------
+// 当组件挂载到 DOM 后，mapContainer.value 已经指向真实的 <div> 节点
+// 此时调用 Leaflet 的 L.map() 方法初始化地图
+onMounted(() => {
+  // 安全检查：确保 DOM 引用已就绪
+  if (!mapContainer.value) {
+    console.warn('[LeafletMap] 地图容器 DOM 未就绪，取消初始化')
+    return
+  }
+
+  // --------------------------------------------------
+  // 6.1 创建 Leaflet 地图实例
+  // --------------------------------------------------
+  // L.map(container, options) 接收两个参数：
+  //   - container: DOM 元素或元素 ID
+  //   - options: 配置对象，这里设置初始视图中心和缩放级别
+  mapInstance = L.map(mapContainer.value, {
+    // center: 地图初始中心点坐标，格式为 [纬度, 经度]
+    center: [props.latitude, props.longitude],
+    // zoom: 初始缩放级别
+    zoom: props.zoom
+  })
+
+  // --------------------------------------------------
+  // 6.2 添加底图瓦片图层（TileLayer）
+  // --------------------------------------------------
+  // 瓦片图层是地图的“皮肤”，由一系列小图片拼接而成
+  // 这里使用 OpenStreetMap (OSM) 的公开瓦片服务，免费且无需 API Key
+  // URL 模板中的 {s} 表示子域、{z} 表示缩放级别、{x}/{y} 表示瓦片坐标
+  const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    // attribution: 版权信息，必须保留以符合 OSM 使用协议
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  })
+
+  // 将瓦片图层添加到地图实例上
+  tileLayer.addTo(mapInstance)
+
+  // --------------------------------------------------
+  // 6.3（可选）在地图中心添加一个标记点（Marker）
+  // --------------------------------------------------
+  // 这样用户可以直观看到当前地图中心的位置
+  L.marker([props.latitude, props.longitude])
+    // bindPopup: 为标记绑定一个点击后弹出的信息框
+    .bindPopup(`当前中心：<br>纬度 ${props.latitude}, 经度 ${props.longitude}`)
+    // 将标记添加到地图上
+    .addTo(mapInstance)
+
+  // --------------------------------------------------
+  // 6.4（可选）添加一个圆形区域，展示覆盖范围
+  // --------------------------------------------------
+  // L.circle 创建一个圆形矢量图层
+  L.circle([props.latitude, props.longitude], {
+    // color: 边框颜色
+    color: 'blue',
+    // fillColor: 填充颜色
+    fillColor: '#30f',
+    // fillOpacity: 填充不透明度（0 ~ 1）
+    fillOpacity: 0.2,
+    // radius: 圆的半径，单位为米
+    radius: 2000
+  })
+    // 为圆形绑定弹出信息
+    .bindPopup('这是一个 2km 范围的示例圆形区域')
+    // 添加到地图
+    .addTo(mapInstance)
+
+  // --------------------------------------------------
+  // 6.5 添加比例尺控件（Scale Control）
+  // --------------------------------------------------
+  // 比例尺帮助用户直观判断地图上的实际距离
+  L.control.scale({
+    // position: 控件在地图上的位置，可选 'topleft', 'topright', 'bottomleft', 'bottomright'
+    position: 'bottomright',
+    // metric: 是否显示公制单位（米/公里）
+    metric: true,
+    // imperial: 是否显示英制单位（英尺/英里）
+    imperial: false
+  }).addTo(mapInstance)
+
+  // --------------------------------------------------
+  // 6.6 控制台输出初始化完成信息，方便调试
+  // --------------------------------------------------
+  console.log('[LeafletMap] 地图初始化完成', {
+    center: [props.latitude, props.longitude],
+    zoom: props.zoom,
+    container: mapContainer.value
+  })
+})
+
+// --------------------------------------------
+// 7. 组件卸载生命周期钩子：清理资源
+// --------------------------------------------
+// 在组件从 DOM 中移除前，必须手动调用 map.remove() 销毁 Leaflet 实例
+// 否则会导致：
+//   - 内存泄漏（DOM 事件监听器未释放）
+//   - 再次进入页面时地图初始化异常
+//   - 后台仍在请求瓦片资源
+onUnmounted(() => {
+  if (mapInstance) {
+    // remove() 会移除地图容器内的所有 Leaflet 元素、事件监听和图层
+    mapInstance.remove()
+    // 清空引用，帮助垃圾回收
+    mapInstance = null
+    console.log('[LeafletMap] 地图实例已销毁')
+  }
+})
+</script>
+
+<template>
+  <!--
+    地图容器 div
+    - ref="mapContainer": 将 DOM 引用绑定到 script 中的 mapContainer 变量
+    - :style="{ height }": 动态绑定高度，接收父组件传入的 height prop
+    - class="leaflet-map-container": 提供基础样式类名
+  -->
+  <div ref="mapContainer" class="leaflet-map-container" :style="{ height: props.height }"></div>
+</template>
+
+<style scoped>
+/* ============================================
+   LeafletMap 组件局部样式
+   ============================================ */
+
+/* 地图容器必须设置明确的高度，否则 Leaflet 无法正确计算瓦片位置 */
+.leaflet-map-container {
+  /* 宽度占满父容器 */
+  width: 100%;
+  /* 高度由父组件通过 props 传入，内联样式动态设置 */
+  /* 圆角，让地图看起来更现代 */
+  border-radius: 8px;
+  /* 阴影效果，增加层次感 */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  /* 溢出隐藏，配合 border-radius 裁剪地图边缘 */
+  overflow: hidden;
+}
+</style>

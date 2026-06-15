@@ -1,0 +1,6370 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "pt-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.506256,
+          29.569607
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-1",
+        "population": 784,
+        "area": 10216,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523187,
+          29.577734
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-2",
+        "population": 1641,
+        "area": 45077,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530164,
+          29.565125
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-3",
+        "population": 251,
+        "area": 40465,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529716,
+          29.556863
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-4",
+        "population": 305,
+        "area": 43195,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523007,
+          29.580203
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-5",
+        "population": 94,
+        "area": 49679,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52624,
+          29.566899
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-6",
+        "population": 721,
+        "area": 19094,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.524511,
+          29.578067
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-7",
+        "population": 1081,
+        "area": 8306,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.533146,
+          29.583989
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-8",
+        "population": 1115,
+        "area": 4911,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.527676,
+          29.55942
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-9",
+        "population": 1992,
+        "area": 9903,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.522461,
+          29.572001
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-10",
+        "population": 1631,
+        "area": 40402,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5406,
+          29.565841
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-11",
+        "population": 536,
+        "area": 25583,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.542711,
+          29.571001
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-12",
+        "population": 567,
+        "area": 33489,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523096,
+          29.567624
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-13",
+        "population": 1956,
+        "area": 16341,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529851,
+          29.573009
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-14",
+        "population": 1086,
+        "area": 15716,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.521345,
+          29.566324
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-15",
+        "population": 172,
+        "area": 24743,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.524456,
+          29.562202
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-16",
+        "population": 1876,
+        "area": 6695,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.522026,
+          29.563301
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-17",
+        "population": 1435,
+        "area": 46811,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53317,
+          29.574732
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-18",
+        "population": 831,
+        "area": 6875,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53729,
+          29.566846
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-19",
+        "population": 544,
+        "area": 19630,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531674,
+          29.579492
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-20",
+        "population": 433,
+        "area": 33261,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.532915,
+          29.571485
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-21",
+        "population": 632,
+        "area": 8826,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.525933,
+          29.56313
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-22",
+        "population": 764,
+        "area": 15018,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52275,
+          29.564569
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-23",
+        "population": 261,
+        "area": 36589,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.519202,
+          29.572396
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-24",
+        "population": 1747,
+        "area": 45689,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53043,
+          29.572267
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-25",
+        "population": 1749,
+        "area": 40711,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523938,
+          29.574153
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-26",
+        "population": 289,
+        "area": 34161,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53091,
+          29.578199
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-27",
+        "population": 1109,
+        "area": 9148,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.533088,
+          29.572085
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-28",
+        "population": 708,
+        "area": 37399,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.528423,
+          29.565081
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-29",
+        "population": 1878,
+        "area": 24888,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530278,
+          29.559508
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-30",
+        "population": 1232,
+        "area": 17539,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534179,
+          29.565715
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-31",
+        "population": 1043,
+        "area": 3320,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.533074,
+          29.570911
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-32",
+        "population": 146,
+        "area": 23248,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52841,
+          29.560838
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-33",
+        "population": 793,
+        "area": 25182,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534722,
+          29.57298
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-34",
+        "population": 1129,
+        "area": 3091,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.522649,
+          29.553858
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-35",
+        "population": 1291,
+        "area": 44026,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.532902,
+          29.562489
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-36",
+        "population": 1779,
+        "area": 1737,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523067,
+          29.56225
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-37",
+        "population": 1346,
+        "area": 29388,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531872,
+          29.573879
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-38",
+        "population": 894,
+        "area": 4866,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531128,
+          29.566086
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-39",
+        "population": 1982,
+        "area": 39946,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.538316,
+          29.568412
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-40",
+        "population": 1849,
+        "area": 37294,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.518385,
+          29.56591
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-41",
+        "population": 538,
+        "area": 21710,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53023,
+          29.571984
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-42",
+        "population": 1268,
+        "area": 24921,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529543,
+          29.564261
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-43",
+        "population": 503,
+        "area": 19326,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534255,
+          29.565862
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-44",
+        "population": 294,
+        "area": 26949,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53747,
+          29.583148
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-45",
+        "population": 565,
+        "area": 34929,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536797,
+          29.56694
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-46",
+        "population": 302,
+        "area": 8279,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.527855,
+          29.571646
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-47",
+        "population": 149,
+        "area": 35200,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.538982,
+          29.56344
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-48",
+        "population": 1549,
+        "area": 49389,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.528902,
+          29.566544
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-49",
+        "population": 469,
+        "area": 20396,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529157,
+          29.56692
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-50",
+        "population": 999,
+        "area": 25523,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-51",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530819,
+          29.567164
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-51",
+        "population": 895,
+        "area": 16169,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-52",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530088,
+          29.570828
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-52",
+        "population": 1275,
+        "area": 26082,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.527952,
+          29.569568
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-53",
+        "population": 757,
+        "area": 22625,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.525066,
+          29.570021
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-54",
+        "population": 1399,
+        "area": 36571,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-55",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523287,
+          29.571105
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-55",
+        "population": 1492,
+        "area": 33281,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-56",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53468,
+          29.575039
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-56",
+        "population": 1881,
+        "area": 44341,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529084,
+          29.571053
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-57",
+        "population": 1625,
+        "area": 42524,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-58",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534144,
+          29.566199
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-58",
+        "population": 1594,
+        "area": 31377,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-59",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.522922,
+          29.573768
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-59",
+        "population": 815,
+        "area": 18294,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-60",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529271,
+          29.578839
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-60",
+        "population": 1477,
+        "area": 20205,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-61",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.541136,
+          29.575733
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-61",
+        "population": 1518,
+        "area": 15997,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-62",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.533614,
+          29.56244
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-62",
+        "population": 1824,
+        "area": 20991,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-63",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.533826,
+          29.570183
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-63",
+        "population": 1722,
+        "area": 28486,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-64",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.514857,
+          29.563174
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-64",
+        "population": 333,
+        "area": 44107,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-65",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531207,
+          29.568327
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-65",
+        "population": 479,
+        "area": 3925,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-66",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.539383,
+          29.567192
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-66",
+        "population": 1653,
+        "area": 7826,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-67",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.539121,
+          29.580933
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-67",
+        "population": 190,
+        "area": 47582,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-68",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530609,
+          29.569953
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-68",
+        "population": 812,
+        "area": 9068,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-69",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535129,
+          29.573204
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-69",
+        "population": 426,
+        "area": 44087,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-70",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530437,
+          29.571182
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-70",
+        "population": 1038,
+        "area": 5728,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-71",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529639,
+          29.56285
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-71",
+        "population": 1580,
+        "area": 26608,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523684,
+          29.57641
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-72",
+        "population": 1223,
+        "area": 22362,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-73",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537685,
+          29.567513
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-73",
+        "population": 51,
+        "area": 40285,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-74",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.528342,
+          29.559759
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-74",
+        "population": 1520,
+        "area": 46482,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529892,
+          29.572241
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-75",
+        "population": 872,
+        "area": 37376,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-76",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.520736,
+          29.569505
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-76",
+        "population": 474,
+        "area": 31405,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-77",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.524499,
+          29.568229
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-77",
+        "population": 1911,
+        "area": 10481,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-78",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529809,
+          29.565495
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-78",
+        "population": 985,
+        "area": 40269,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-79",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53024,
+          29.573343
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-79",
+        "population": 317,
+        "area": 19866,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-80",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.521208,
+          29.564253
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-80",
+        "population": 270,
+        "area": 43618,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-81",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.528056,
+          29.571703
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-81",
+        "population": 847,
+        "area": 4866,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-82",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.539808,
+          29.570758
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-82",
+        "population": 1778,
+        "area": 4155,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-83",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.527017,
+          29.566508
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-83",
+        "population": 1291,
+        "area": 7212,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-84",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531569,
+          29.566617
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-84",
+        "population": 1278,
+        "area": 21584,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-85",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.519533,
+          29.565633
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-85",
+        "population": 603,
+        "area": 20579,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-86",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.514938,
+          29.568628
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-86",
+        "population": 1091,
+        "area": 45264,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-87",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531597,
+          29.572285
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-87",
+        "population": 97,
+        "area": 13452,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-88",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52645,
+          29.570821
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-88",
+        "population": 1990,
+        "area": 44357,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-89",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530958,
+          29.568234
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-89",
+        "population": 381,
+        "area": 2678,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-90",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537707,
+          29.564011
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-90",
+        "population": 1701,
+        "area": 28291,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-91",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.525525,
+          29.582652
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-91",
+        "population": 962,
+        "area": 30705,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-92",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536597,
+          29.57826
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-92",
+        "population": 1727,
+        "area": 33128,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-93",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530326,
+          29.574308
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-93",
+        "population": 1390,
+        "area": 35176,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-94",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.528944,
+          29.564359
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-94",
+        "population": 156,
+        "area": 39530,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-95",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536224,
+          29.567607
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-95",
+        "population": 1925,
+        "area": 17099,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-96",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535871,
+          29.571449
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-96",
+        "population": 1825,
+        "area": 34503,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-97",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52878,
+          29.582654
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-97",
+        "population": 103,
+        "area": 1412,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-98",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531381,
+          29.573014
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-98",
+        "population": 203,
+        "area": 12911,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-99",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529295,
+          29.573086
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-99",
+        "population": 1248,
+        "area": 39091,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-100",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.517853,
+          29.565173
+        ]
+      },
+      "properties": {
+        "name": "观音桥-点-100",
+        "population": 81,
+        "area": 5062,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.584363,
+          29.563382
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-1",
+        "population": 1480,
+        "area": 26990,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.577788,
+          29.563675
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-2",
+        "population": 1857,
+        "area": 23615,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572198,
+          29.56493
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-3",
+        "population": 208,
+        "area": 33499,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.573811,
+          29.557818
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-4",
+        "population": 584,
+        "area": 6271,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.585154,
+          29.555283
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-5",
+        "population": 894,
+        "area": 38336,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57336,
+          29.55836
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-6",
+        "population": 233,
+        "area": 44362,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575143,
+          29.55539
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-7",
+        "population": 117,
+        "area": 39105,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.582102,
+          29.552967
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-8",
+        "population": 182,
+        "area": 35893,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-109",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.584072,
+          29.554046
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-9",
+        "population": 698,
+        "area": 26489,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.571145,
+          29.55394
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-10",
+        "population": 1649,
+        "area": 11261,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-111",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.586612,
+          29.553066
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-11",
+        "population": 1626,
+        "area": 46170,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575848,
+          29.561257
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-12",
+        "population": 1420,
+        "area": 21506,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-113",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.584537,
+          29.564042
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-13",
+        "population": 663,
+        "area": 18041,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.581564,
+          29.556907
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-14",
+        "population": 1710,
+        "area": 17426,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.574725,
+          29.563563
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-15",
+        "population": 417,
+        "area": 32295,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.577378,
+          29.56947
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-16",
+        "population": 975,
+        "area": 32259,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.586189,
+          29.568709
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-17",
+        "population": 462,
+        "area": 10133,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-118",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.585361,
+          29.561691
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-18",
+        "population": 1559,
+        "area": 38280,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.573632,
+          29.562876
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-19",
+        "population": 1774,
+        "area": 15999,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.583611,
+          29.559958
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-20",
+        "population": 1716,
+        "area": 3966,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.581535,
+          29.573086
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-21",
+        "population": 1534,
+        "area": 49843,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.579322,
+          29.562529
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-22",
+        "population": 480,
+        "area": 4804,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.592602,
+          29.559241
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-23",
+        "population": 1866,
+        "area": 49288,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572681,
+          29.552808
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-24",
+        "population": 778,
+        "area": 42278,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.565939,
+          29.553239
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-25",
+        "population": 904,
+        "area": 12623,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570732,
+          29.562133
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-26",
+        "population": 956,
+        "area": 3336,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.580075,
+          29.563414
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-27",
+        "population": 671,
+        "area": 45797,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57712,
+          29.556658
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-28",
+        "population": 344,
+        "area": 42102,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-129",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.569681,
+          29.56283
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-29",
+        "population": 750,
+        "area": 2523,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.580413,
+          29.571552
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-30",
+        "population": 474,
+        "area": 3172,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.576128,
+          29.555687
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-31",
+        "population": 961,
+        "area": 5133,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.582355,
+          29.564422
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-32",
+        "population": 514,
+        "area": 41402,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-133",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.583764,
+          29.555484
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-33",
+        "population": 1139,
+        "area": 6612,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575307,
+          29.554074
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-34",
+        "population": 1492,
+        "area": 26750,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.588579,
+          29.561087
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-35",
+        "population": 1852,
+        "area": 37487,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-136",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.574093,
+          29.561566
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-36",
+        "population": 1524,
+        "area": 25235,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-137",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.576482,
+          29.56913
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-37",
+        "population": 1383,
+        "area": 1932,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572191,
+          29.566405
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-38",
+        "population": 53,
+        "area": 20992,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.582312,
+          29.561874
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-39",
+        "population": 1307,
+        "area": 48468,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.582606,
+          29.569003
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-40",
+        "population": 1445,
+        "area": 34102,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-141",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575718,
+          29.557957
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-41",
+        "population": 1037,
+        "area": 29188,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-142",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.584822,
+          29.558042
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-42",
+        "population": 299,
+        "area": 21611,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.569283,
+          29.566714
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-43",
+        "population": 1691,
+        "area": 11172,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.576827,
+          29.560332
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-44",
+        "population": 517,
+        "area": 42290,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.583466,
+          29.56219
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-45",
+        "population": 918,
+        "area": 29899,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-146",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.582794,
+          29.554299
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-46",
+        "population": 227,
+        "area": 6565,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-147",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.583182,
+          29.560981
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-47",
+        "population": 459,
+        "area": 26156,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-148",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.576717,
+          29.564115
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-48",
+        "population": 1385,
+        "area": 34240,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-149",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.586848,
+          29.565287
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-49",
+        "population": 1260,
+        "area": 12831,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.580625,
+          29.561158
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-50",
+        "population": 558,
+        "area": 2332,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.574619,
+          29.573164
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-51",
+        "population": 624,
+        "area": 43265,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.586955,
+          29.560555
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-52",
+        "population": 869,
+        "area": 31899,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-153",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.581282,
+          29.570328
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-53",
+        "population": 1861,
+        "area": 5152,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572114,
+          29.560605
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-54",
+        "population": 410,
+        "area": 29649,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57614,
+          29.558497
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-55",
+        "population": 1796,
+        "area": 8451,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.588852,
+          29.559968
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-56",
+        "population": 1221,
+        "area": 13756,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-157",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.582236,
+          29.562195
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-57",
+        "population": 700,
+        "area": 18202,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.586694,
+          29.55566
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-58",
+        "population": 1714,
+        "area": 6231,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.585987,
+          29.55835
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-59",
+        "population": 310,
+        "area": 45703,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.585996,
+          29.553372
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-60",
+        "population": 111,
+        "area": 22964,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-161",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.577575,
+          29.563173
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-61",
+        "population": 1734,
+        "area": 49325,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.580255,
+          29.560921
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-62",
+        "population": 1934,
+        "area": 6915,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-163",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.580472,
+          29.56078
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-63",
+        "population": 859,
+        "area": 40607,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.574153,
+          29.571575
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-64",
+        "population": 1833,
+        "area": 37475,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.579291,
+          29.564068
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-65",
+        "population": 1742,
+        "area": 22458,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.581258,
+          29.557365
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-66",
+        "population": 87,
+        "area": 30622,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.578102,
+          29.559887
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-67",
+        "population": 1605,
+        "area": 33398,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-168",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.578494,
+          29.554008
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-68",
+        "population": 1239,
+        "area": 29315,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.58054,
+          29.558692
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-69",
+        "population": 1403,
+        "area": 30117,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-170",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572221,
+          29.565656
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-70",
+        "population": 585,
+        "area": 23083,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.578815,
+          29.56477
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-71",
+        "population": 845,
+        "area": 2847,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-172",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.583904,
+          29.563259
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-72",
+        "population": 1863,
+        "area": 32628,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-173",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.581831,
+          29.559765
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-73",
+        "population": 883,
+        "area": 6282,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572837,
+          29.558307
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-74",
+        "population": 411,
+        "area": 2653,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.581165,
+          29.553339
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-75",
+        "population": 178,
+        "area": 40506,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.588593,
+          29.562056
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-76",
+        "population": 244,
+        "area": 17460,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.580473,
+          29.565707
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-77",
+        "population": 1772,
+        "area": 5054,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.583966,
+          29.562737
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-78",
+        "population": 184,
+        "area": 43193,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.581225,
+          29.560614
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-79",
+        "population": 883,
+        "area": 11831,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.576867,
+          29.561046
+        ]
+      },
+      "properties": {
+        "name": "解放碑-点-80",
+        "population": 1518,
+        "area": 8309,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.574897,
+          29.520834
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-1",
+        "population": 560,
+        "area": 33407,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-182",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572447,
+          29.524095
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-2",
+        "population": 1491,
+        "area": 28505,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-183",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570169,
+          29.528256
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-3",
+        "population": 1452,
+        "area": 9889,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570774,
+          29.526624
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-4",
+        "population": 1112,
+        "area": 7725,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.569357,
+          29.512159
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-5",
+        "population": 1105,
+        "area": 1072,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572415,
+          29.520178
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-6",
+        "population": 789,
+        "area": 2125,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-187",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.569992,
+          29.516351
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-7",
+        "population": 418,
+        "area": 8040,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.577213,
+          29.52089
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-8",
+        "population": 1397,
+        "area": 23100,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572747,
+          29.514469
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-9",
+        "population": 393,
+        "area": 29105,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.564536,
+          29.518133
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-10",
+        "population": 362,
+        "area": 24975,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.577774,
+          29.506647
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-11",
+        "population": 1832,
+        "area": 24008,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.571378,
+          29.522709
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-12",
+        "population": 1838,
+        "area": 28772,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-193",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.571457,
+          29.520678
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-13",
+        "population": 1548,
+        "area": 33460,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.576931,
+          29.514381
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-14",
+        "population": 1613,
+        "area": 43782,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.567232,
+          29.517709
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-15",
+        "population": 1007,
+        "area": 28367,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570817,
+          29.516605
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-16",
+        "population": 709,
+        "area": 46565,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.568989,
+          29.524176
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-17",
+        "population": 724,
+        "area": 17526,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.567832,
+          29.5144
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-18",
+        "population": 162,
+        "area": 44131,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-199",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.561098,
+          29.520592
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-19",
+        "population": 1149,
+        "area": 43769,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-200",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572588,
+          29.521613
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-20",
+        "population": 272,
+        "area": 39741,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.571934,
+          29.523269
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-21",
+        "population": 694,
+        "area": 5184,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.574177,
+          29.52085
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-22",
+        "population": 547,
+        "area": 15676,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57866,
+          29.518935
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-23",
+        "population": 1927,
+        "area": 8438,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.567324,
+          29.51424
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-24",
+        "population": 1482,
+        "area": 29359,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575943,
+          29.518052
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-25",
+        "population": 452,
+        "area": 19604,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570713,
+          29.52322
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-26",
+        "population": 1367,
+        "area": 47396,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.560853,
+          29.517597
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-27",
+        "population": 54,
+        "area": 13453,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.564351,
+          29.520008
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-28",
+        "population": 939,
+        "area": 10676,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.576018,
+          29.517819
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-29",
+        "population": 1917,
+        "area": 12541,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-210",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570232,
+          29.521602
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-30",
+        "population": 1334,
+        "area": 5042,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.563086,
+          29.519763
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-31",
+        "population": 1541,
+        "area": 37928,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.580145,
+          29.522978
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-32",
+        "population": 1707,
+        "area": 6496,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570685,
+          29.529787
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-33",
+        "population": 1507,
+        "area": 24149,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.561355,
+          29.522468
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-34",
+        "population": 401,
+        "area": 15838,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-215",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.56679,
+          29.522559
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-35",
+        "population": 1967,
+        "area": 44145,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575619,
+          29.519443
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-36",
+        "population": 1186,
+        "area": 4179,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.567873,
+          29.511193
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-37",
+        "population": 930,
+        "area": 33259,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-218",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.577432,
+          29.513726
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-38",
+        "population": 306,
+        "area": 33631,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-219",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575652,
+          29.517474
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-39",
+        "population": 1965,
+        "area": 13191,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-220",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.566752,
+          29.526439
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-40",
+        "population": 181,
+        "area": 3306,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.561059,
+          29.522434
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-41",
+        "population": 1692,
+        "area": 45411,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572031,
+          29.516458
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-42",
+        "population": 658,
+        "area": 33025,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.588195,
+          29.517861
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-43",
+        "population": 1296,
+        "area": 13427,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.567685,
+          29.511869
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-44",
+        "population": 1936,
+        "area": 42578,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-225",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.578044,
+          29.520951
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-45",
+        "population": 1093,
+        "area": 18232,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.569419,
+          29.510975
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-46",
+        "population": 190,
+        "area": 32833,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.56616,
+          29.520126
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-47",
+        "population": 403,
+        "area": 5931,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.568034,
+          29.520496
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-48",
+        "population": 897,
+        "area": 33922,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-229",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572995,
+          29.526483
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-49",
+        "population": 515,
+        "area": 13163,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-230",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.573435,
+          29.521053
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-50",
+        "population": 111,
+        "area": 33004,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.572216,
+          29.523909
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-51",
+        "population": 1863,
+        "area": 1544,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.582938,
+          29.524105
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-52",
+        "population": 1523,
+        "area": 36506,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575352,
+          29.531923
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-53",
+        "population": 552,
+        "area": 25039,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.573179,
+          29.515472
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-54",
+        "population": 1340,
+        "area": 45686,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.573707,
+          29.522021
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-55",
+        "population": 552,
+        "area": 11302,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-236",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.563131,
+          29.517469
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-56",
+        "population": 1253,
+        "area": 44587,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-237",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.575998,
+          29.511891
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-57",
+        "population": 370,
+        "area": 24387,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.570704,
+          29.524677
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-58",
+        "population": 576,
+        "area": 16506,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-239",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.568377,
+          29.520513
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-59",
+        "population": 1768,
+        "area": 47477,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.559124,
+          29.520237
+        ]
+      },
+      "properties": {
+        "name": "南坪-点-60",
+        "population": 166,
+        "area": 37018,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448119,
+          29.554246
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-1",
+        "population": 846,
+        "area": 41650,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-242",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448142,
+          29.547085
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-2",
+        "population": 539,
+        "area": 32733,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-243",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.458587,
+          29.557493
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-3",
+        "population": 1308,
+        "area": 23720,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-244",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.453283,
+          29.552923
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-4",
+        "population": 1838,
+        "area": 48670,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.450715,
+          29.544582
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-5",
+        "population": 1867,
+        "area": 5062,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-246",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.445999,
+          29.5531
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-6",
+        "population": 660,
+        "area": 42918,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-247",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45536,
+          29.55088
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-7",
+        "population": 1380,
+        "area": 43412,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-248",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.452442,
+          29.553759
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-8",
+        "population": 1429,
+        "area": 30997,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.453123,
+          29.55442
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-9",
+        "population": 197,
+        "area": 18653,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-250",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45077,
+          29.555179
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-10",
+        "population": 1278,
+        "area": 49016,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.454639,
+          29.549142
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-11",
+        "population": 651,
+        "area": 31028,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44944,
+          29.556486
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-12",
+        "population": 1448,
+        "area": 23038,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.451008,
+          29.546834
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-13",
+        "population": 211,
+        "area": 28098,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448159,
+          29.549078
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-14",
+        "population": 1336,
+        "area": 29250,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-255",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.453844,
+          29.556495
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-15",
+        "population": 320,
+        "area": 19375,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-256",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.449915,
+          29.560798
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-16",
+        "population": 1004,
+        "area": 581,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-257",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448078,
+          29.555169
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-17",
+        "population": 637,
+        "area": 20475,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-258",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.452541,
+          29.545051
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-18",
+        "population": 998,
+        "area": 46254,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448313,
+          29.56199
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-19",
+        "population": 881,
+        "area": 43763,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-260",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.446748,
+          29.54575
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-20",
+        "population": 1462,
+        "area": 33195,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-261",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.449609,
+          29.553491
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-21",
+        "population": 568,
+        "area": 43579,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.457558,
+          29.546497
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-22",
+        "population": 763,
+        "area": 29213,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-263",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.449258,
+          29.554456
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-23",
+        "population": 1686,
+        "area": 21769,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45474,
+          29.544312
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-24",
+        "population": 527,
+        "area": 42435,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448075,
+          29.548697
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-25",
+        "population": 1102,
+        "area": 42155,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.449949,
+          29.554458
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-26",
+        "population": 401,
+        "area": 41418,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44542,
+          29.544531
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-27",
+        "population": 1861,
+        "area": 26895,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448744,
+          29.557527
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-28",
+        "population": 1152,
+        "area": 13260,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.446879,
+          29.542931
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-29",
+        "population": 698,
+        "area": 22699,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.454731,
+          29.556672
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-30",
+        "population": 971,
+        "area": 2582,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.442599,
+          29.545645
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-31",
+        "population": 1590,
+        "area": 47376,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-272",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.453293,
+          29.5413
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-32",
+        "population": 340,
+        "area": 1519,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44845,
+          29.551194
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-33",
+        "population": 1993,
+        "area": 12628,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-274",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.453117,
+          29.557269
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-34",
+        "population": 527,
+        "area": 47760,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.447037,
+          29.554794
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-35",
+        "population": 285,
+        "area": 8330,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.443474,
+          29.549479
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-36",
+        "population": 711,
+        "area": 30365,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.449288,
+          29.55355
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-37",
+        "population": 1719,
+        "area": 27100,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-278",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.449374,
+          29.556924
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-38",
+        "population": 102,
+        "area": 37771,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.451782,
+          29.553639
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-39",
+        "population": 131,
+        "area": 35134,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448758,
+          29.547337
+        ]
+      },
+      "properties": {
+        "name": "沙坪坝-点-40",
+        "population": 1304,
+        "area": 14688,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-281",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.596269,
+          29.538671
+        ]
+      },
+      "properties": {
+        "name": "分散点-1",
+        "population": 1245,
+        "area": 44245,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-282",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.694137,
+          29.599659
+        ]
+      },
+      "properties": {
+        "name": "分散点-2",
+        "population": 828,
+        "area": 42212,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.419822,
+          29.587113
+        ]
+      },
+      "properties": {
+        "name": "分散点-3",
+        "population": 1088,
+        "area": 24454,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.668243,
+          29.596542
+        ]
+      },
+      "properties": {
+        "name": "分散点-4",
+        "population": 1402,
+        "area": 45689,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.483407,
+          29.494676
+        ]
+      },
+      "properties": {
+        "name": "分散点-5",
+        "population": 180,
+        "area": 4543,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.640803,
+          29.601913
+        ]
+      },
+      "properties": {
+        "name": "分散点-6",
+        "population": 1257,
+        "area": 43099,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-287",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.410369,
+          29.534675
+        ]
+      },
+      "properties": {
+        "name": "分散点-7",
+        "population": 1427,
+        "area": 25867,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-288",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.666422,
+          29.436261
+        ]
+      },
+      "properties": {
+        "name": "分散点-8",
+        "population": 748,
+        "area": 41160,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.616767,
+          29.621864
+        ]
+      },
+      "properties": {
+        "name": "分散点-9",
+        "population": 869,
+        "area": 18565,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.588234,
+          29.665865
+        ]
+      },
+      "properties": {
+        "name": "分散点-10",
+        "population": 956,
+        "area": 7224,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-291",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.522728,
+          29.545826
+        ]
+      },
+      "properties": {
+        "name": "分散点-11",
+        "population": 1025,
+        "area": 37593,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.674985,
+          29.676604
+        ]
+      },
+      "properties": {
+        "name": "分散点-12",
+        "population": 443,
+        "area": 45918,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.607718,
+          29.557015
+        ]
+      },
+      "properties": {
+        "name": "分散点-13",
+        "population": 785,
+        "area": 41622,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.566623,
+          29.644955
+        ]
+      },
+      "properties": {
+        "name": "分散点-14",
+        "population": 307,
+        "area": 24608,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.567733,
+          29.536402
+        ]
+      },
+      "properties": {
+        "name": "分散点-15",
+        "population": 1019,
+        "area": 47058,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531052,
+          29.471015
+        ]
+      },
+      "properties": {
+        "name": "分散点-16",
+        "population": 740,
+        "area": 3923,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-297",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.574918,
+          29.515259
+        ]
+      },
+      "properties": {
+        "name": "分散点-17",
+        "population": 305,
+        "area": 40992,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.373599,
+          29.53644
+        ]
+      },
+      "properties": {
+        "name": "分散点-18",
+        "population": 1249,
+        "area": 6338,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.338322,
+          29.463786
+        ]
+      },
+      "properties": {
+        "name": "分散点-19",
+        "population": 819,
+        "area": 38877,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-300",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.477548,
+          29.437734
+        ]
+      },
+      "properties": {
+        "name": "分散点-20",
+        "population": 1458,
+        "area": 26889,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.628471,
+          29.561506
+        ]
+      },
+      "properties": {
+        "name": "分散点-21",
+        "population": 224,
+        "area": 24256,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.324008,
+          29.626937
+        ]
+      },
+      "properties": {
+        "name": "分散点-22",
+        "population": 1171,
+        "area": 49447,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523774,
+          29.52445
+        ]
+      },
+      "properties": {
+        "name": "分散点-23",
+        "population": 190,
+        "area": 10220,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-304",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.362336,
+          29.467002
+        ]
+      },
+      "properties": {
+        "name": "分散点-24",
+        "population": 1070,
+        "area": 43556,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.518125,
+          29.425997
+        ]
+      },
+      "properties": {
+        "name": "分散点-25",
+        "population": 707,
+        "area": 34478,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-306",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.411929,
+          29.693157
+        ]
+      },
+      "properties": {
+        "name": "分散点-26",
+        "population": 953,
+        "area": 37719,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.486773,
+          29.622899
+        ]
+      },
+      "properties": {
+        "name": "分散点-27",
+        "population": 814,
+        "area": 38808,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.463948,
+          29.602908
+        ]
+      },
+      "properties": {
+        "name": "分散点-28",
+        "population": 907,
+        "area": 31261,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.657085,
+          29.648539
+        ]
+      },
+      "properties": {
+        "name": "分散点-29",
+        "population": 1480,
+        "area": 8565,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-310",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.394086,
+          29.479848
+        ]
+      },
+      "properties": {
+        "name": "分散点-30",
+        "population": 534,
+        "area": 44095,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.300321,
+          29.543757
+        ]
+      },
+      "properties": {
+        "name": "分散点-31",
+        "population": 1167,
+        "area": 9346,
+        "category": "二线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-312",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.629953,
+          29.642541
+        ]
+      },
+      "properties": {
+        "name": "分散点-32",
+        "population": 1435,
+        "area": 22562,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.678451,
+          29.572355
+        ]
+      },
+      "properties": {
+        "name": "分散点-33",
+        "population": 1370,
+        "area": 8684,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-314",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.640537,
+          29.555783
+        ]
+      },
+      "properties": {
+        "name": "分散点-34",
+        "population": 761,
+        "area": 21510,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-315",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.692796,
+          29.497981
+        ]
+      },
+      "properties": {
+        "name": "分散点-35",
+        "population": 369,
+        "area": 5622,
+        "category": "新一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-316",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.486407,
+          29.51044
+        ]
+      },
+      "properties": {
+        "name": "分散点-36",
+        "population": 340,
+        "area": 44876,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.634324,
+          29.534884
+        ]
+      },
+      "properties": {
+        "name": "分散点-37",
+        "population": 1033,
+        "area": 14334,
+        "category": "一线城市"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-318",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.448841,
+          29.674424
+        ]
+      },
+      "properties": {
+        "name": "分散点-38",
+        "population": 224,
+        "area": 44819,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-319",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.348191,
+          29.665456
+        ]
+      },
+      "properties": {
+        "name": "分散点-39",
+        "population": 1101,
+        "area": 41704,
+        "category": "社区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pt-320",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.603763,
+          29.51094
+        ]
+      },
+      "properties": {
+        "name": "分散点-40",
+        "population": 355,
+        "area": 25680,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.59057856600434,
+              29.57082895160936
+            ],
+            [
+              106.59680265324845,
+              29.57082895160936
+            ],
+            [
+              106.59680265324845,
+              29.577534013925348
+            ],
+            [
+              106.59057856600434,
+              29.577534013925348
+            ],
+            [
+              106.59057856600434,
+              29.57082895160936
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "A座商业楼",
+        "population": 1724,
+        "area": 514191,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.56826887771801,
+              29.54159054943096
+            ],
+            [
+              106.57245460348908,
+              29.54159054943096
+            ],
+            [
+              106.57245460348908,
+              29.54589700792494
+            ],
+            [
+              106.56826887771801,
+              29.54589700792494
+            ],
+            [
+              106.56826887771801,
+              29.54159054943096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "B座住宅",
+        "population": 1633,
+        "area": 222094,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.58596291782699,
+              29.565710322766073
+            ],
+            [
+              106.59283860755225,
+              29.565710322766073
+            ],
+            [
+              106.59283860755225,
+              29.571962918977462
+            ],
+            [
+              106.58596291782699,
+              29.571962918977462
+            ],
+            [
+              106.58596291782699,
+              29.565710322766073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "C座写字楼",
+        "population": 1019,
+        "area": 529691,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.59226720226225,
+              29.53828988850181
+            ],
+            [
+              106.60275892164087,
+              29.53828988850181
+            ],
+            [
+              106.60275892164087,
+              29.543326545683417
+            ],
+            [
+              106.59226720226225,
+              29.543326545683417
+            ],
+            [
+              106.59226720226225,
+              29.53828988850181
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "D座公寓",
+        "population": 126,
+        "area": 651081,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.58952869196366,
+              29.54148621825615
+            ],
+            [
+              106.59475846940151,
+              29.54148621825615
+            ],
+            [
+              106.59475846940151,
+              29.54874698780149
+            ],
+            [
+              106.58952869196366,
+              29.54874698780149
+            ],
+            [
+              106.58952869196366,
+              29.54148621825615
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "E座综合体",
+        "population": 304,
+        "area": 467856,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-6",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.57004880775415,
+              29.57748778403987
+            ],
+            [
+              106.57657978344474,
+              29.57748778403987
+            ],
+            [
+              106.57657978344474,
+              29.582332699503315
+            ],
+            [
+              106.57004880775415,
+              29.582332699503315
+            ],
+            [
+              106.57004880775415,
+              29.57748778403987
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "F座科技园",
+        "population": 1320,
+        "area": 389861,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-7",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.58092435123925,
+              29.544573955168623
+            ],
+            [
+              106.58712727022157,
+              29.544573955168623
+            ],
+            [
+              106.58712727022157,
+              29.54797591376822
+            ],
+            [
+              106.58092435123925,
+              29.54797591376822
+            ],
+            [
+              106.58092435123925,
+              29.544573955168623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "G座酒店",
+        "population": 295,
+        "area": 259999,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-8",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.56182314824653,
+              29.55747624398787
+            ],
+            [
+              106.57251086626792,
+              29.55747624398787
+            ],
+            [
+              106.57251086626792,
+              29.560893440323063
+            ],
+            [
+              106.56182314824653,
+              29.560893440323063
+            ],
+            [
+              106.56182314824653,
+              29.55747624398787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "H座商场",
+        "population": 1408,
+        "area": 449988,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-9",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.54797695648331,
+              29.55516211735696
+            ],
+            [
+              106.55870452204634,
+              29.55516211735696
+            ],
+            [
+              106.55870452204634,
+              29.563582241686515
+            ],
+            [
+              106.54797695648331,
+              29.563582241686515
+            ],
+            [
+              106.54797695648331,
+              29.55516211735696
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "I座大厦",
+        "population": 1465,
+        "area": 1112924,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-10",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5529110223112,
+              29.56172757813994
+            ],
+            [
+              106.55890279537078,
+              29.56172757813994
+            ],
+            [
+              106.55890279537078,
+              29.567991205157572
+            ],
+            [
+              106.5529110223112,
+              29.567991205157572
+            ],
+            [
+              106.5529110223112,
+              29.56172757813994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "J座洋房",
+        "population": 1941,
+        "area": 462410,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-11",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.57505006603475,
+              29.56641368212447
+            ],
+            [
+              106.58374785683694,
+              29.56641368212447
+            ],
+            [
+              106.58374785683694,
+              29.572712465372106
+            ],
+            [
+              106.57505006603475,
+              29.572712465372106
+            ],
+            [
+              106.57505006603475,
+              29.56641368212447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "K座厂房",
+        "population": 819,
+        "area": 675012,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-12",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5723853862009,
+              29.545706850986477
+            ],
+            [
+              106.5795102658844,
+              29.545706850986477
+            ],
+            [
+              106.5795102658844,
+              29.555578119650846
+            ],
+            [
+              106.5723853862009,
+              29.555578119650846
+            ],
+            [
+              106.5723853862009,
+              29.545706850986477
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "L座仓库",
+        "population": 1841,
+        "area": 866556,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-13",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55621080052778,
+              29.536586302910774
+            ],
+            [
+              106.56815805591937,
+              29.536586302910774
+            ],
+            [
+              106.56815805591937,
+              29.54091749874564
+            ],
+            [
+              106.55621080052778,
+              29.54091749874564
+            ],
+            [
+              106.55621080052778,
+              29.536586302910774
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "M座公寓",
+        "population": 482,
+        "area": 637561,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-14",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.56503341339602,
+              29.554026452083495
+            ],
+            [
+              106.57478782159698,
+              29.554026452083495
+            ],
+            [
+              106.57478782159698,
+              29.559072772008296
+            ],
+            [
+              106.56503341339602,
+              29.559072772008296
+            ],
+            [
+              106.56503341339602,
+              29.554026452083495
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "N座金融中心",
+        "population": 507,
+        "area": 606487,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-15",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.59799714674698,
+              29.574747076704934
+            ],
+            [
+              106.60982065390677,
+              29.574747076704934
+            ],
+            [
+              106.60982065390677,
+              29.579221308089142
+            ],
+            [
+              106.59799714674698,
+              29.579221308089142
+            ],
+            [
+              106.59799714674698,
+              29.574747076704934
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "O座文化中心",
+        "population": 1296,
+        "area": 651795,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-16",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.61181592806076,
+              29.54940364786436
+            ],
+            [
+              106.6176436218862,
+              29.54940364786436
+            ],
+            [
+              106.6176436218862,
+              29.557697548591925
+            ],
+            [
+              106.61181592806076,
+              29.557697548591925
+            ],
+            [
+              106.61181592806076,
+              29.54940364786436
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "P座体育场馆",
+        "population": 1346,
+        "area": 595527,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-17",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.56614532474285,
+              29.564933538245086
+            ],
+            [
+              106.57280256900296,
+              29.564933538245086
+            ],
+            [
+              106.57280256900296,
+              29.571699819448234
+            ],
+            [
+              106.56614532474285,
+              29.571699819448234
+            ],
+            [
+              106.56614532474285,
+              29.564933538245086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Q座医院",
+        "population": 1699,
+        "area": 554997,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-18",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.56287565639724,
+              29.54120339662845
+            ],
+            [
+              106.57253337518017,
+              29.54120339662845
+            ],
+            [
+              106.57253337518017,
+              29.545323049219274
+            ],
+            [
+              106.56287565639724,
+              29.545323049219274
+            ],
+            [
+              106.56287565639724,
+              29.54120339662845
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "R座学校",
+        "population": 643,
+        "area": 490209,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-19",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.57035145336516,
+              29.55689145612462
+            ],
+            [
+              106.57574329934525,
+              29.55689145612462
+            ],
+            [
+              106.57574329934525,
+              29.560552465366133
+            ],
+            [
+              106.57035145336516,
+              29.560552465366133
+            ],
+            [
+              106.57035145336516,
+              29.55689145612462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "S座图书馆",
+        "population": 258,
+        "area": 243212,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-20",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.57480195008752,
+              29.56072203749913
+            ],
+            [
+              106.5841078705369,
+              29.56072203749913
+            ],
+            [
+              106.5841078705369,
+              29.564251424443295
+            ],
+            [
+              106.57480195008752,
+              29.564251424443295
+            ],
+            [
+              106.57480195008752,
+              29.56072203749913
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "T座展览馆",
+        "population": 210,
+        "area": 404673,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-21",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.57591195478427,
+              29.53500995597003
+            ],
+            [
+              106.58769796905038,
+              29.53500995597003
+            ],
+            [
+              106.58769796905038,
+              29.541109006672183
+            ],
+            [
+              106.57591195478427,
+              29.541109006672183
+            ],
+            [
+              106.57591195478427,
+              29.53500995597003
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "U座交通枢纽",
+        "population": 1660,
+        "area": 885677,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-22",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55682961867224,
+              29.572372163214478
+            ],
+            [
+              106.56369402745106,
+              29.572372163214478
+            ],
+            [
+              106.56369402745106,
+              29.580725750979585
+            ],
+            [
+              106.55682961867224,
+              29.580725750979585
+            ],
+            [
+              106.55682961867224,
+              29.572372163214478
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "V座创业园",
+        "population": 1932,
+        "area": 706516,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-23",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.58435720005505,
+              29.577169656565847
+            ],
+            [
+              106.58853621219734,
+              29.577169656565847
+            ],
+            [
+              106.58853621219734,
+              29.580744651134165
+            ],
+            [
+              106.58435720005505,
+              29.580744651134165
+            ],
+            [
+              106.58435720005505,
+              29.577169656565847
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "W座别墅区",
+        "population": 1168,
+        "area": 184075,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-24",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5748309491101,
+              29.569698118924183
+            ],
+            [
+              106.5842804711746,
+              29.569698118924183
+            ],
+            [
+              106.5842804711746,
+              29.57805080697953
+            ],
+            [
+              106.5748309491101,
+              29.57805080697953
+            ],
+            [
+              106.5748309491101,
+              29.569698118924183
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "X座行政中心",
+        "population": 1628,
+        "area": 972483,
+        "category": "中心城区"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld-25",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.57018289596277,
+              29.561918073320694
+            ],
+            [
+              106.5804517198344,
+              29.561918073320694
+            ],
+            [
+              106.5804517198344,
+              29.565025544485575
+            ],
+            [
+              106.57018289596277,
+              29.565025544485575
+            ],
+            [
+              106.57018289596277,
+              29.561918073320694
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Y座剧院",
+        "population": 172,
+        "area": 393164,
+        "category": "中心城区"
+      }
+    }
+  ]
+}
