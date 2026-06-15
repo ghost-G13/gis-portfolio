@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "city-001",
+      "geometry": { "type": "Point", "coordinates": [113.2644, 23.1291] },
+      "properties": { "name": "广州市", "population": 1867, "area": 7434, "category": "一线城市" }
+    },
+    {
+      "type": "Feature",
+      "id": "city-002",
+      "geometry": { "type": "Point", "coordinates": [114.0579, 22.5431] },
+      "properties": { "name": "深圳市", "population": 1756, "area": 1997, "category": "一线城市" }
+    },
+    {
+      "type": "Feature",
+      "id": "city-003",
+      "geometry": { "type": "Point", "coordinates": [113.7518, 23.0218] },
+      "properties": { "name": "东莞市", "population": 1043, "area": 2460, "category": "新一线城市" }
+    },
+    {
+      "type": "Feature",
+      "id": "city-004",
+      "geometry": { "type": "Point", "coordinates": [113.5767, 22.2707] },
+      "properties": { "name": "珠海市", "population": 247, "area": 1736, "category": "二线城市" }
+    },
+    {
+      "type": "Feature",
+      "id": "city-005",
+      "geometry": { "type": "Point", "coordinates": [113.0940, 22.5904] },
+      "properties": { "name": "佛山市", "population": 961, "area": 3797, "category": "新一线城市" }
+    },
+    {
+      "type": "Feature",
+      "id": "city-006",
+      "geometry": { "type": "Point", "coordinates": [114.4126, 23.0794] },
+      "properties": { "name": "惠州市", "population": 604, "area": 11347, "category": "二线城市" }
+    },
+    {
+      "type": "Feature",
+      "id": "city-007",
+      "geometry": { "type": "Polygon", "coordinates": [[[113.25, 23.10], [113.28, 23.10], [113.28, 23.13], [113.25, 23.13], [113.25, 23.10]]] },
+      "properties": { "name": "广州中心区", "population": 500, "area": 150, "category": "中心城区" }
+    },
+    {
+      "type": "Feature",
+      "id": "city-008",
+      "geometry": { "type": "Polygon", "coordinates": [[[114.04, 22.52], [114.07, 22.52], [114.07, 22.55], [114.04, 22.55], [114.04, 22.52]]] },
+      "properties": { "name": "深圳中心区", "population": 450, "area": 120, "category": "中心城区" }
+    }
+  ]
+}
